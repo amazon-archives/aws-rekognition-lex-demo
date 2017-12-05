@@ -1,0 +1,25 @@
+{
+  "name": "rekognitionpolly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "one": "./part1/run.sh",
+    "two": "./part2/run.sh",
+    "three": "./part3/lex.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.138.0",
+    "lodash": "^4.17.4",
+    "bluebird": "^3.5.1",
+    "promised-exec": "^1.0.1",
+    "hasha": "^3.0.0",
+    "player": "^0.6.1",
+    "hash-files": "^1.1.1",
+    "axios": "^0.17.0",
+    "aws4": "^1.6.0"
+  }
+}

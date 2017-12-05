@@ -1,0 +1,45 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.12489318847656, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 99.12490844726562, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 99.10317993164062, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 72.95547485351562, 
+            "Name": "Classroom"
+        }, 
+        {
+            "Confidence": 70.50663757324219, 
+            "Name": "Audience"
+        }, 
+        {
+            "Confidence": 70.50663757324219, 
+            "Name": "Crowd"
+        }, 
+        {
+            "Confidence": 51.84762954711914, 
+            "Name": "Party"
+        }, 
+        {
+            "Confidence": 51.40932846069336, 
+            "Name": "Portrait"
+        }, 
+        {
+            "Confidence": 51.40932846069336, 
+            "Name": "Selfie"
+        }, 
+        {
+            "Confidence": 50.911163330078125, 
+            "Name": "Face"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}
