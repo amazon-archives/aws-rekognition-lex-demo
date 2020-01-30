@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.19.2",
     "cfn-lambda": "^2.1.1",
     "cfn-response": "^1.0.1",
     "deep-equal": "^1.0.1",
